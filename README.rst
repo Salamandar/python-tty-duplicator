@@ -33,12 +33,16 @@ Requirements
 Installation
 ------------
 
-You can install "python-tty-duplicator" via pip from `PyPI`_::
+You can install "python-tty-duplicator" via pip from `PyPI`_:
+
+.. code-block:: bash
 
     $ pip install python-tty-duplicator
 
 Usage
 -----
+
+.. code-block:: python
 
     from tty_duplicator import TTYDuplicator
 
